@@ -1,2 +1,103 @@
-Channel, TX Frequency, RX Frequency, Tone, Label (8 Character Max), Notes
-116, 156.800, 156.800, , Marine16, https://en.wikipedia.org/wiki/Marine_VHF_radio
+Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
+0,144.46,144.46,,PAPA0,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+1,446.58,,127.3,PAPA1,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+2,224.4,,156.7*,PAPA2,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+3,446.76,,127.3,PAPA3,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+4,445.42,,127.3,PAPA4,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+6,446.76,,156.7*,PAPA6,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+8,445.14,,127.3,PAPA8,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+9,446.58,,156.7*,PAPA9,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+10,448.54,,91.5*,PAPA10,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+11,449.38,,100,PAPA11,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+12,224.4,,100,PAPA12,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+14,446.98,,156.7,PAPA14,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+18,445.86,,100,PAPA18,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+21,147.21,,100,WIN 7,http://www.winsystem.org
+22,447.58,,100,WIN 12,http://www.winsystem.org
+35,147.435,146.4,103.5,147.435,http://your435.com/connect/radio-frequency/
+40,144.2,,,2M SSB,http://ac6v.com/callfreq.htm
+41,146.52,146.52,,2M SIMPL,http://ac6v.com/callfreq.htm
+50,120.1,,,SMOTower,
+51,121.9,,,SMOGdCtl,
+60,155.16,,,SAR,
+70,145.8,145.2,,ISS FM,http://www.issfanclub.com/frequencies
+71,145.8,144.49,,ISS FM,http://www.issfanclub.com/frequencies
+72,145.8,437.8,,ISS Rep,http://www.issfanclub.com/frequencies
+73,437.8,145.99,67 U,ISS Rep,http://www.issfanclub.com/frequencies
+74,145.8,1269.65,,ISS Rep,http://www.issfanclub.com/frequencies
+100,156,160.6,,Marine0, https://en.wikipedia.org/wiki/Marine_VHF_radio
+101,156.05,160.65,,Marine1, https://en.wikipedia.org/wiki/Marine_VHF_radio
+102,156.1,160.7,,Marine2, https://en.wikipedia.org/wiki/Marine_VHF_radio
+103,156.15,160.75,,Marine3, https://en.wikipedia.org/wiki/Marine_VHF_radio
+104,156.2,160.8,,Marine4, https://en.wikipedia.org/wiki/Marine_VHF_radio
+105,156.25,160.85,,Marine5, https://en.wikipedia.org/wiki/Marine_VHF_radio
+106,156.3,156.3,,Marine6, https://en.wikipedia.org/wiki/Marine_VHF_radio
+107,156.35,160.95,,Marine7, https://en.wikipedia.org/wiki/Marine_VHF_radio
+108,156.4,156.4,,Marine8, https://en.wikipedia.org/wiki/Marine_VHF_radio
+109,156.45,156.45,,Marine9, https://en.wikipedia.org/wiki/Marine_VHF_radio
+110,156.5,156.5,,Marine10, https://en.wikipedia.org/wiki/Marine_VHF_radio
+111,156.55,156.55,,Marine11, https://en.wikipedia.org/wiki/Marine_VHF_radio
+112,156.6,156.6,,Marine12, https://en.wikipedia.org/wiki/Marine_VHF_radio
+113,156.65,156.65,,Marine13, https://en.wikipedia.org/wiki/Marine_VHF_radio
+114,156.7,156.7,,Marine14, https://en.wikipedia.org/wiki/Marine_VHF_radio
+115,156.75,156.75,,Marine15, https://en.wikipedia.org/wiki/Marine_VHF_radio
+116,156.8,156.8,,Marine16, https://en.wikipedia.org/wiki/Marine_VHF_radio
+117,156.85,156.85,,Marine17, https://en.wikipedia.org/wiki/Marine_VHF_radio
+118,156.9,161.5,,Marine18, https://en.wikipedia.org/wiki/Marine_VHF_radio
+119,156.95,161.55,,Marine19, https://en.wikipedia.org/wiki/Marine_VHF_radio
+120,157,161.6,,Marine20, https://en.wikipedia.org/wiki/Marine_VHF_radio
+121,157.05,161.65,,Marine21, https://en.wikipedia.org/wiki/Marine_VHF_radio
+122,157.1,161.7,,Marine22, https://en.wikipedia.org/wiki/Marine_VHF_radio
+123,157.15,161.75,,Marine23, https://en.wikipedia.org/wiki/Marine_VHF_radio
+124,157.2,161.8,,Marine24, https://en.wikipedia.org/wiki/Marine_VHF_radio
+125,157.25,161.85,,Marine25, https://en.wikipedia.org/wiki/Marine_VHF_radio
+126,157.3,161.9,,Marine26, https://en.wikipedia.org/wiki/Marine_VHF_radio
+127,157.35,161.95,,Marine27, https://en.wikipedia.org/wiki/Marine_VHF_radio
+128,157.4,162,,Marine28, https://en.wikipedia.org/wiki/Marine_VHF_radio
+160,156.025,160.625,,Marine60, https://en.wikipedia.org/wiki/Marine_VHF_radio
+161,156.075,160.675,,Marine61, https://en.wikipedia.org/wiki/Marine_VHF_radio
+162,156.125,160.725,,Marine62, https://en.wikipedia.org/wiki/Marine_VHF_radio
+163,156.175,160.775,,Marine63, https://en.wikipedia.org/wiki/Marine_VHF_radio
+164,156.225,160.825,,Marine64, https://en.wikipedia.org/wiki/Marine_VHF_radio
+165,156.275,160.875,,Marine65, https://en.wikipedia.org/wiki/Marine_VHF_radio
+166,156.325,160.925,,Marine66, https://en.wikipedia.org/wiki/Marine_VHF_radio
+167,156.375,156.375,,Marine67, https://en.wikipedia.org/wiki/Marine_VHF_radio
+168,156.425,156.425,,Marine68, https://en.wikipedia.org/wiki/Marine_VHF_radio
+169,156.475,156.475,,Marine69, https://en.wikipedia.org/wiki/Marine_VHF_radio
+170,156.525,156.525,,Marine70, https://en.wikipedia.org/wiki/Marine_VHF_radio
+171,156.575,156.575,,Marine71, https://en.wikipedia.org/wiki/Marine_VHF_radio
+172,156.625,156.625,,Marine72, https://en.wikipedia.org/wiki/Marine_VHF_radio
+173,156.675,156.675,,Marine73, https://en.wikipedia.org/wiki/Marine_VHF_radio
+174,156.725,156.725,,Marine74, https://en.wikipedia.org/wiki/Marine_VHF_radio
+175,156.775,156.775,,Marine75, https://en.wikipedia.org/wiki/Marine_VHF_radio
+176,156.825,156.825,,Marine76, https://en.wikipedia.org/wiki/Marine_VHF_radio
+177,156.875,156.875,,Marine77, https://en.wikipedia.org/wiki/Marine_VHF_radio
+178,156.925,161.525,,Marine78, https://en.wikipedia.org/wiki/Marine_VHF_radio
+179,156.975,161.575,,Marine79, https://en.wikipedia.org/wiki/Marine_VHF_radio
+180,157.025,161.625,,Marine80, https://en.wikipedia.org/wiki/Marine_VHF_radio
+181,157.075,161.675,,Marine81, https://en.wikipedia.org/wiki/Marine_VHF_radio
+182,157.125,161.725,,Marine82, https://en.wikipedia.org/wiki/Marine_VHF_radio
+183,157.175,161.775,,Marine83, https://en.wikipedia.org/wiki/Marine_VHF_radio
+184,157.225,161.825,,Marine84, https://en.wikipedia.org/wiki/Marine_VHF_radio
+185,157.275,161.875,,Marine85, https://en.wikipedia.org/wiki/Marine_VHF_radio
+186,157.325,161.925,,Marine86, https://en.wikipedia.org/wiki/Marine_VHF_radio
+187,157.375,157.375,,Marine87, https://en.wikipedia.org/wiki/Marine_VHF_radio
+188,157.425,157.425,,Marine88, https://en.wikipedia.org/wiki/Marine_VHF_radio
+201,462.5625,462.5625,,GMRSFRS1,https://en.wikipedia.org/wiki/Family_Radio_Service
+202,462.5875,462.5875,,GMRSFRS2,https://en.wikipedia.org/wiki/Family_Radio_Service
+203,462.6125,462.6125,,GMRSFRS3,https://en.wikipedia.org/wiki/Family_Radio_Service
+204,462.6375,462.6375,,GMRSFRS4,https://en.wikipedia.org/wiki/Family_Radio_Service
+205,462.6625,462.6625,,GMRSFRS5,https://en.wikipedia.org/wiki/Family_Radio_Service
+206,462.6875,462.6875,,GMRSFRS6,https://en.wikipedia.org/wiki/Family_Radio_Service
+207,462.7125,462.7125,,GMRSFRS7,https://en.wikipedia.org/wiki/Family_Radio_Service
+208,467.5625,467.5625,,FRS8,https://en.wikipedia.org/wiki/Family_Radio_Service
+209,467.5875,467.5875,,FRS9,https://en.wikipedia.org/wiki/Family_Radio_Service
+210,467.6125,467.6125,,FRS10,https://en.wikipedia.org/wiki/Family_Radio_Service
+211,467.6375,467.6375,,FRS11,https://en.wikipedia.org/wiki/Family_Radio_Service
+212,467.6625,467.6625,,FRS12,https://en.wikipedia.org/wiki/Family_Radio_Service
+213,467.6875,467.6875,,FRS13,https://en.wikipedia.org/wiki/Family_Radio_Service
+214,467.7125,467.7125,,FRS14,https://en.wikipedia.org/wiki/Family_Radio_Service
+,,,,,http://www.kenwoodusa.com/UserFiles/File/UnitedStates/Communications/AMA/Manuals/TH-F6.pdf
+,,,,,http://www.radioreference.com/apps/db/?ctid=201
+,,,,,http://rptrlist.w6jpl.ampr.org
+,,,,,https://en.wikipedia.org/wiki/Citizens_band_radio
