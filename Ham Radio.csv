@@ -1,13 +1,13 @@
 Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
 0,144.46,144.46,,PAPA0,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 1,446.58,,127.3,PAPA1,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
-2,224.4,,156.7*,PAPA2,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+2,224.4,,156.7 U,PAPA2,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 3,446.76,,127.3,PAPA3,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 4,445.42,,127.3,PAPA4,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
-6,446.76,,156.7*,PAPA6,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+6,446.76,,156.7 U,PAPA6,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 8,445.14,,127.3,PAPA8,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
-9,446.58,,156.7*,PAPA9,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
-10,448.54,,91.5*,PAPA10,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+9,446.58,,156.7 U,PAPA9,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+10,448.54,,91.5 U,PAPA10,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 11,449.38,,100,PAPA11,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 12,224.4,,100,PAPA12,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
 14,446.98,,156.7,PAPA14,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
