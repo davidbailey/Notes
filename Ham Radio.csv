@@ -20,6 +20,13 @@ Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
 50,120.1,,,SMOTower,
 51,121.9,,,SMOGdCtl,
 60,155.16,,,SAR,
+61,0.500,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
+62,2.182,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
+63,121.5,,,CivAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
+64,243,,,MilAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
+65,156.8,,,Marine16,https://en.wikipedia.org/wiki/International_distress_frequency
+66,406,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
+67,406.1,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
 70,145.8,145.2,,ISS FM,http://www.issfanclub.com/frequencies
 71,145.8,144.49,,ISS FM,http://www.issfanclub.com/frequencies
 72,145.8,437.8,,ISS Rep,http://www.issfanclub.com/frequencies
@@ -97,13 +104,6 @@ Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
 212,467.6625,467.6625,,FRS12,https://en.wikipedia.org/wiki/Family_Radio_Service
 213,467.6875,467.6875,,FRS13,https://en.wikipedia.org/wiki/Family_Radio_Service
 214,467.7125,467.7125,,FRS14,https://en.wikipedia.org/wiki/Family_Radio_Service
-220,0.500,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
-221,2.182,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
-222,121.5,,,CivAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
-223,243,,,MilAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
-224,156.8,,,Marine16,https://en.wikipedia.org/wiki/International_distress_frequency
-225,406,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
-226,406.1,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
 ,,,,,http://www.kenwoodusa.com/UserFiles/File/UnitedStates/Communications/AMA/Manuals/TH-F6.pdf
 ,,,,,http://www.radioreference.com/apps/db/?ctid=201
 ,,,,,http://rptrlist.w6jpl.ampr.org
