@@ -17,6 +17,7 @@ Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
 35,147.435,146.4,103.5,147.435,http://your435.com/connect/radio-frequency/
 40,144.2,,,2M SSB,http://ac6v.com/callfreq.htm
 41,146.52,146.52,,2M SIMPL,http://ac6v.com/callfreq.htm
+42,146.58,146.58,,NAAF,https://www.k0nr.com/wordpress/2021/01/north-america-adventure-freq/
 50,120.1,,,SMOTower,http://wiki.radioreference.com/index.php/Finding_Air_Traffic_Frequencies
 51,121.9,,,SMOGdCtl,http://wiki.radioreference.com/index.php/Finding_Air_Traffic_Frequencies
 52,122.7,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
