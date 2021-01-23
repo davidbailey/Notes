@@ -1,112 +1,119 @@
-Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPolarity,Mode,TStep,Skip,Comment,URCALL,RPT1CALL,RPT2CALL,DVCODE
-1,6m Call,52.525000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-2,2m Call,146.520000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-3,220 Call,223.500000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-4,70cm Cal,446.000000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-91,WX1PA7,162.550000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-92,WX2PA1,162.400000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-93,WX3PA4,162.475000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-94,WX4PA2,162.425000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-95,WX5PA3,162.450000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-96,WX6PA5,162.500000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-97,WX7PA6,162.525000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-98,WX8,161.650000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-99,WX9,161.775000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-100,WX10,163.275000,,0.000000,,88.5,88.5,023,NN,FM,5.00,,,,,,
-101,SEA 01,160.650000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-102,SEA 02,160.700000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-103,SEA 03,160.750000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-104,SEA 04,160.800000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-105,SEA 05,160.850000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-106,SEA 06,156.300000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-107,SEA 07,160.950000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-108,SEA 08,156.400000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-109,SEA 09,156.450000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-110,SEA 10,156.500000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-111,SEA 11,156.550000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-112,SEA 12,156.600000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-113,SEA 13,156.650000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-114,SEA 14,156.700000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-115,SEA 15,156.750000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-116,SEA 16,156.800000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-117,SEA 17,156.850000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-118,SEA 18,161.500000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-119,SEA 19,161.550000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-120,SEA 20,161.600000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-121,SEA 21,161.650000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-122,SEA 22,161.700000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-123,SEA 23,161.750000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-124,SEA 24,161.800000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-125,SEA 25,161.850000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-126,SEA 26,161.900000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-127,SEA 27,161.950000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-128,SEA 28,162.000000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-129,SEA 60,160.625000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-130,SEA 61,160.675000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-131,SEA 62,160.725000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-132,SEA 63,160.775000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-133,SEA 64,160.825000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-134,SEA 65,160.875000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-135,SEA 66,160.925000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-136,SEA 67,156.375000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-137,SEA 68,156.425000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-138,SEA 69,156.475000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-139,DSC 70,156.525000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-140,SEA 71,156.575000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-141,SEA 72,156.625000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-142,SEA 73,156.675000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-143,SEA 74,156.725000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-144,SEA 77,156.875000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-145,SEA 78,161.525000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-146,SEA 79,161.575000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-147,SEA 80,161.625000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-148,SEA 81,161.675000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-149,SEA 82,161.725000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-150,SEA 83,161.775000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-151,SEA 84,161.825000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-152,SEA 85,161.875000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-153,SEA 86,161.925000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-154,AIS 87,161.975000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-155,AIS 88,162.025000,-,4.600000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-156,SEA F1,155.625000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-157,SEA F2,155.775000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-158,SEA F3,155.825000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-159,SEA L1,155.500000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-160,SEA L2,155.525000,,0.000000,,88.5,88.5,023,NN,FM,25.00,,,,,,
-201,GMRS 1,462.562500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-202,GMRS 2,462.587500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-203,GMRS 3,462.612500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-204,GMRS 4,462.637500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-205,GMRS 5,462.662500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-206,GMRS 6,462.687500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-207,GMRS 7,462.712500,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-215,GMRS 15,462.550000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-216,GMRS 16,462.575000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-217,GMRS 17,462.600000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-218,GMRS 18,462.625000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-219,GMRS 19,462.650000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-220,GMRS 20,462.675000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-221,GMRS 21,462.700000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-222,GMRS 22,462.725000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-223,GMRS 550,462.550000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-224,GMRS 575,462.575000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-225,GMRS 600,462.600000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-226,GMRS 625,462.625000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-227,GMRS 650,462.650000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-228,GMRS 675,462.675000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-229,GMRS 700,462.700000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-230,GMRS 725,462.725000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-231,GMRS 18,462.625000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-232,GMRS 19,462.650000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-233,GMRS 20,462.675000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-234,GMRS 20,462.700000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-235,GMRS 21,462.700000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-236,GMRS 22,462.725000,,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-237,GMRS 550,462.550000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-238,GMRS 575,462.575000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-239,GMRS 600,462.600000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-240,GMRS 625,462.625000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-241,GMRS 650,462.650000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-242,GMRS 675,462.675000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-243,GMRS 700,462.700000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
-244,GMRS 725,462.725000,+,5.000000,,88.5,88.5,023,NN,FM,12.50,,,,,,
+Channel, RX Frequency, TX Frequency, Tone, Label (8 Character Max), Notes
+0,144.46,144.46,,PAPA0,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+1,446.58,,127.3,PAPA1,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+2,224.4,,156.7 U,PAPA2,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+3,446.76,,127.3,PAPA3,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+4,445.42,,127.3,PAPA4,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+6,446.76,,156.7 U,PAPA6,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+8,445.14,,127.3,PAPA8,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+9,446.58,,156.7 U,PAPA9,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+10,448.54,,91.5 U,PAPA10,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+11,449.38,,100,PAPA11,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+12,224.4,,100,PAPA12,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+14,446.98,,156.7,PAPA14,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+18,445.86,,100,PAPA18,http://www.papasys.net; http://arrllax.org/index.php?page=traffic-nets
+21,147.21,,100,WIN 7,http://www.winsystem.org
+22,447.58,,100,WIN 12,http://www.winsystem.org
+35,147.435,146.4,103.5,147.435,http://your435.com/connect/radio-frequency/
+40,144.2,,,2M SSB,http://ac6v.com/callfreq.htm
+41,146.52,146.52,,2M SIMPL,http://ac6v.com/callfreq.htm
+42,146.58,146.58,,NAAF,https://www.k0nr.com/wordpress/2021/01/north-america-adventure-freq/
+50,120.1,,,SMOTower,http://wiki.radioreference.com/index.php/Finding_Air_Traffic_Frequencies
+51,121.9,,,SMOGdCtl,http://wiki.radioreference.com/index.php/Finding_Air_Traffic_Frequencies
+52,122.7,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+53,122.725,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+54,122.8,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+55,122.95,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+56,122.975,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+57,123,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+58,123.05,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+59,123.075,,,UNICOM,https://en.wikipedia.org/wiki/UNICOM
+60,121.5,,,CivAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
+61,243,,,MilAirEm,https://en.wikipedia.org/wiki/International_distress_frequency
+62,0.500,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
+63,2.182,,,Distress,https://en.wikipedia.org/wiki/International_distress_frequency
+64,156.8,,,Marine16,https://en.wikipedia.org/wiki/International_distress_frequency
+65,406,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
+66,406.1,,,SARSAT,https://en.wikipedia.org/wiki/International_distress_frequency
+67,155.16,,,SAR,
+70,145.8,145.2,,ISS FM,http://www.issfanclub.com/frequencies
+71,145.8,144.49,,ISS FM,http://www.issfanclub.com/frequencies
+72,145.8,437.8,,ISS Rep,http://www.issfanclub.com/frequencies
+73,437.8,145.99,67 U,ISS Rep,http://www.issfanclub.com/frequencies
+74,145.8,1269.65,,ISS Rep,http://www.issfanclub.com/frequencies
+100,156,160.6,,Marine0, https://en.wikipedia.org/wiki/Marine_VHF_radio
+101,156.05,160.65,,Marine1, https://en.wikipedia.org/wiki/Marine_VHF_radio
+102,156.1,160.7,,Marine2, https://en.wikipedia.org/wiki/Marine_VHF_radio
+103,156.15,160.75,,Marine3, https://en.wikipedia.org/wiki/Marine_VHF_radio
+104,156.2,160.8,,Marine4, https://en.wikipedia.org/wiki/Marine_VHF_radio
+105,156.25,160.85,,Marine5, https://en.wikipedia.org/wiki/Marine_VHF_radio
+106,156.3,156.3,,Marine6, https://en.wikipedia.org/wiki/Marine_VHF_radio
+107,156.35,160.95,,Marine7, https://en.wikipedia.org/wiki/Marine_VHF_radio
+108,156.4,156.4,,Marine8, https://en.wikipedia.org/wiki/Marine_VHF_radio
+109,156.45,156.45,,Marine9, https://en.wikipedia.org/wiki/Marine_VHF_radio
+110,156.5,156.5,,Marine10, https://en.wikipedia.org/wiki/Marine_VHF_radio
+111,156.55,156.55,,Marine11, https://en.wikipedia.org/wiki/Marine_VHF_radio
+112,156.6,156.6,,Marine12, https://en.wikipedia.org/wiki/Marine_VHF_radio
+113,156.65,156.65,,Marine13, https://en.wikipedia.org/wiki/Marine_VHF_radio
+114,156.7,156.7,,Marine14, https://en.wikipedia.org/wiki/Marine_VHF_radio
+115,156.75,156.75,,Marine15, https://en.wikipedia.org/wiki/Marine_VHF_radio
+116,156.8,156.8,,Marine16, https://en.wikipedia.org/wiki/Marine_VHF_radio
+117,156.85,156.85,,Marine17, https://en.wikipedia.org/wiki/Marine_VHF_radio
+118,156.9,161.5,,Marine18, https://en.wikipedia.org/wiki/Marine_VHF_radio
+119,156.95,161.55,,Marine19, https://en.wikipedia.org/wiki/Marine_VHF_radio
+120,157,161.6,,Marine20, https://en.wikipedia.org/wiki/Marine_VHF_radio
+121,157.05,161.65,,Marine21, https://en.wikipedia.org/wiki/Marine_VHF_radio
+122,157.1,161.7,,Marine22, https://en.wikipedia.org/wiki/Marine_VHF_radio
+123,157.15,161.75,,Marine23, https://en.wikipedia.org/wiki/Marine_VHF_radio
+124,157.2,161.8,,Marine24, https://en.wikipedia.org/wiki/Marine_VHF_radio
+125,157.25,161.85,,Marine25, https://en.wikipedia.org/wiki/Marine_VHF_radio
+126,157.3,161.9,,Marine26, https://en.wikipedia.org/wiki/Marine_VHF_radio
+127,157.35,161.95,,Marine27, https://en.wikipedia.org/wiki/Marine_VHF_radio
+128,157.4,162,,Marine28, https://en.wikipedia.org/wiki/Marine_VHF_radio
+160,156.025,160.625,,Marine60, https://en.wikipedia.org/wiki/Marine_VHF_radio
+161,156.075,160.675,,Marine61, https://en.wikipedia.org/wiki/Marine_VHF_radio
+162,156.125,160.725,,Marine62, https://en.wikipedia.org/wiki/Marine_VHF_radio
+163,156.175,160.775,,Marine63, https://en.wikipedia.org/wiki/Marine_VHF_radio
+164,156.225,160.825,,Marine64, https://en.wikipedia.org/wiki/Marine_VHF_radio
+165,156.275,160.875,,Marine65, https://en.wikipedia.org/wiki/Marine_VHF_radio
+166,156.325,160.925,,Marine66, https://en.wikipedia.org/wiki/Marine_VHF_radio
+167,156.375,156.375,,Marine67, https://en.wikipedia.org/wiki/Marine_VHF_radio
+168,156.425,156.425,,Marine68, https://en.wikipedia.org/wiki/Marine_VHF_radio
+169,156.475,156.475,,Marine69, https://en.wikipedia.org/wiki/Marine_VHF_radio
+170,156.525,156.525,,Marine70, https://en.wikipedia.org/wiki/Marine_VHF_radio
+171,156.575,156.575,,Marine71, https://en.wikipedia.org/wiki/Marine_VHF_radio
+172,156.625,156.625,,Marine72, https://en.wikipedia.org/wiki/Marine_VHF_radio
+173,156.675,156.675,,Marine73, https://en.wikipedia.org/wiki/Marine_VHF_radio
+174,156.725,156.725,,Marine74, https://en.wikipedia.org/wiki/Marine_VHF_radio
+175,156.775,156.775,,Marine75, https://en.wikipedia.org/wiki/Marine_VHF_radio
+176,156.825,156.825,,Marine76, https://en.wikipedia.org/wiki/Marine_VHF_radio
+177,156.875,156.875,,Marine77, https://en.wikipedia.org/wiki/Marine_VHF_radio
+178,156.925,161.525,,Marine78, https://en.wikipedia.org/wiki/Marine_VHF_radio
+179,156.975,161.575,,Marine79, https://en.wikipedia.org/wiki/Marine_VHF_radio
+180,157.025,161.625,,Marine80, https://en.wikipedia.org/wiki/Marine_VHF_radio
+181,157.075,161.675,,Marine81, https://en.wikipedia.org/wiki/Marine_VHF_radio
+182,157.125,161.725,,Marine82, https://en.wikipedia.org/wiki/Marine_VHF_radio
+183,157.175,161.775,,Marine83, https://en.wikipedia.org/wiki/Marine_VHF_radio
+184,157.225,161.825,,Marine84, https://en.wikipedia.org/wiki/Marine_VHF_radio
+185,157.275,161.875,,Marine85, https://en.wikipedia.org/wiki/Marine_VHF_radio
+186,157.325,161.925,,Marine86, https://en.wikipedia.org/wiki/Marine_VHF_radio
+187,157.375,157.375,,Marine87, https://en.wikipedia.org/wiki/Marine_VHF_radio
+188,157.425,157.425,,Marine88, https://en.wikipedia.org/wiki/Marine_VHF_radio
+201,462.5625,462.5625,,GMRSFRS1,https://en.wikipedia.org/wiki/Family_Radio_Service
+202,462.5875,462.5875,,GMRSFRS2,https://en.wikipedia.org/wiki/Family_Radio_Service
+203,462.6125,462.6125,,GMRSFRS3,https://en.wikipedia.org/wiki/Family_Radio_Service
+204,462.6375,462.6375,,GMRSFRS4,https://en.wikipedia.org/wiki/Family_Radio_Service
+205,462.6625,462.6625,,GMRSFRS5,https://en.wikipedia.org/wiki/Family_Radio_Service
+206,462.6875,462.6875,,GMRSFRS6,https://en.wikipedia.org/wiki/Family_Radio_Service
+207,462.7125,462.7125,,GMRSFRS7,https://en.wikipedia.org/wiki/Family_Radio_Service
+208,467.5625,467.5625,,FRS8,https://en.wikipedia.org/wiki/Family_Radio_Service
+209,467.5875,467.5875,,FRS9,https://en.wikipedia.org/wiki/Family_Radio_Service
+210,467.6125,467.6125,,FRS10,https://en.wikipedia.org/wiki/Family_Radio_Service
+211,467.6375,467.6375,,FRS11,https://en.wikipedia.org/wiki/Family_Radio_Service
+212,467.6625,467.6625,,FRS12,https://en.wikipedia.org/wiki/Family_Radio_Service
+213,467.6875,467.6875,,FRS13,https://en.wikipedia.org/wiki/Family_Radio_Service
+214,467.7125,467.7125,,FRS14,https://en.wikipedia.org/wiki/Family_Radio_Service
+,,,,,http://www.kenwoodusa.com/UserFiles/File/UnitedStates/Communications/AMA/Manuals/TH-F6.pdf
+,,,,,http://www.radioreference.com/apps/db/?ctid=201
+,,,,,http://rptrlist.w6jpl.ampr.org
+,,,,,https://en.wikipedia.org/wiki/Citizens_band_radio
