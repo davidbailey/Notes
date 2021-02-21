@@ -8,3 +8,6 @@ Other Recipies
 * http://www.foodnetwork.com/recipes/rachael-ray/vegetable-stew-giambotta-recipe.html
 * https://smittenkitchen.com/2006/08/a-44-clove-ticket-to-a-happier-place/
 * https://www.marthastewart.com/343762/emerils-lemon-herb-grilled-shrimp
+* https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/
+* https://howtobbqright.com/2014/09/25/smoked-hot-wings/
+* [BBQ Rub Recipe](https://www.youtube.com/watch?app=desktop&v=ivBXO4CShn8)
