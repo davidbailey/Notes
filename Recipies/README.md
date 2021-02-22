@@ -11,3 +11,4 @@ Other Recipies
 * https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/
 * https://howtobbqright.com/2014/09/25/smoked-hot-wings/
 * [BBQ Rub Recipe](https://www.youtube.com/watch?app=desktop&v=ivBXO4CShn8)
+* https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/
