@@ -1,14 +1,14 @@
 # Leek and Potato Soup
 
 ## Ingredients
-• 4 oz. butter – no substitute
-• 3 cups chopped leeks (the white part and the base of the green leaves; remove the roots)
-• 2 stalks celery, chopped
-• 1 large onion, chopped
-• 3-4 cups roughly chopped potatoes (leave skins on unless they’re very thick)
-• 2 quarts chicken broth – use Swanson’s no fat, low salt
-• 1-2 cups cream
-• Salt and pepper to taste
+* 4 oz. butter – no substitute
+* 3 cups chopped leeks (the white part and the base of the green leaves; remove the roots)
+* 2 stalks celery, chopped
+* 1 large onion, chopped
+* 3-4 cups roughly chopped potatoes (leave skins on unless they’re very thick)
+* 2 quarts chicken broth – use Swanson’s no fat, low salt
+* 1-2 cups cream
+* Salt and pepper to taste
  
 ## Directions
 1) Melt butter in a saucepan big enough to hold all ingredients.  
