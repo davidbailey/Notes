@@ -20,8 +20,8 @@
 5) Cook 50 minutes (or until chicken is cooked).
 6) Remove chicken pieces and remove meat from bones.  Pull the meat apart into bite-sized pieces.
 7) Either:
-  a) run the broth/vegetables mixture through a food mill, or use a stick blender (eg, Braun Stick Blender), or
-  b) leave as is – depending upon your preference.  We like the finer texture, so use a stick blender.  If you like a coarser texture – like a peasant soup – just leave as is.
+  1) run the broth/vegetables mixture through a food mill, or use a stick blender (eg, Braun Stick Blender), or
+  2) leave as is – depending upon your preference.  We like the finer texture, so use a stick blender.  If you like a coarser texture – like a peasant soup – just leave as is.
 8) Return the chicken meat and the vegetable/broth mix to the pot.
 9) Add the frozen peas and the Half & Half.
 10) Heat to preference.
