@@ -11,3 +11,4 @@ Recipies
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
 * https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/
 * https://en.m.wikipedia.org/wiki/Greek_salad
+* https://carlsbadcravings.com/secret-ingredient-mongolian-beef/
