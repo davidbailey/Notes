@@ -1,5 +1,6 @@
- 
-Ingredients
+# Butternut Squash Soup
+
+## Ingredients
 • 4 oz. butter – no substitute
 • 3 cups chopped leeks (the white part and the base of the green leaves; remove the roots)
 • 2 stalks celery, chopped
@@ -9,7 +10,7 @@ Ingredients
 • 1-2 cups cream
 • Salt and pepper to taste
  
-Directions
+## Directions
 1) Melt butter in a saucepan big enough to hold all ingredients.  
 2) Add leeks, celery, and onion and stew slowly over medium-low heat until golden and soft.  Don’t let them brown.  
 3) Add potatoes and chicken broth and bring to a boil.  
@@ -17,5 +18,5 @@ Directions
 5) Mash potatoes or roughly puree with a stick blender.   You want a mildly lumpy texture, not a smooth puree like mashed potatoes.
 6) Add cream and salt and pepper.  
 7) Heat through again.  
-8) Serves 4-6.   Enjoy!
- 
+
+Serves 4-6.   Enjoy!
