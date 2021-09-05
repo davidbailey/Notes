@@ -1,6 +1,6 @@
 # Hot and Sour Soup
 
-https://youtube.com/watch?v=0hr_PlhClGg
+based on https://youtube.com/watch?v=0hr_PlhClGg
 
 Ingredients
 ---
