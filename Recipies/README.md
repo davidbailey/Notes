@@ -1,6 +1,6 @@
-Recipies
-========
+# Recipies
 
+## Other Recipies
 * [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
