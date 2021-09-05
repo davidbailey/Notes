@@ -1,16 +1,16 @@
 # Chicken Curry Soup
 
 ## Ingredients
-1​medium/small yellow onion, chopped
-4​carrots, peeled & chopped
-6 tsp​butter
-3 tsp​curry powder
-1​chicken, cut into pieces (breasts, legs, thighs, etc)
-½ cup ​rice
-6 sprigs​parsley
-4-5 ​15 oz cans chicken broth, low salt, low fat
-½ cup ​frozen peas
-½ cup​Half & Half
+* 1 medium/small yellow onion, chopped
+* 4 carrots, peeled & chopped
+* 6 tsp butter
+* 3 tsp curry powder
+* 1 chicken, cut into pieces (breasts, legs, thighs, etc)
+* ½ cup rice
+* 6 sprigs parsley
+* 4-5 15 oz cans chicken broth, low salt, low fat
+* ½ cup frozen peas
+* ½ cup Half & Half
  
 ## Directions
 1) Melt butter in large soup pot.
