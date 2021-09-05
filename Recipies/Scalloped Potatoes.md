@@ -1,10 +1,12 @@
-Ingredients
+# Scalloped Potatoes
+
+## Ingredients
 - 4 Tbsp butter
 - 4 Tbsp flour
 - 1.5-2 cups of milk
 - 2 cups thinly sliced peeled Russet potatoes (will probably take 3 large potatoes).
  
-Directions
+## Directions
 1) Preheat oven to 350.
 2) Melt the butter in a large saucepan under low heat.
 3) Slowly whisk in the flour.
