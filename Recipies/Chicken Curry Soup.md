@@ -1,5 +1,6 @@
+# Chicken Curry Soup
 
-Ingredients
+## Ingredients
 1​medium/small yellow onion, chopped
 4​carrots, peeled & chopped
 6 tsp​butter
@@ -11,7 +12,7 @@ Ingredients
 ½ cup ​frozen peas
 ½ cup​Half & Half
  
-Directions
+## Directions
 1) Melt butter in large soup pot.
 2) Add chopped onion, chopped carrots, curry powder.
 3) Stew over low heat for 20 minutes, stirring occasionally.
