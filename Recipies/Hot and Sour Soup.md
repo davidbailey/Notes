@@ -24,7 +24,7 @@ Ingredients
 
 * did not use
 
-Steps
+Directions
 ---
 1. Boil chicken broth for 20 minutes w/ green onion and spice bag
 1. Set aside 4 tablespoons of chicken broth in a bowl
