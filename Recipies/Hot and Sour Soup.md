@@ -1,7 +1,5 @@
 # Hot and Sour Soup
 
-based on https://youtube.com/watch?v=0hr_PlhClGg
-
 Ingredients
 ---
 * 8 cups chicken broth
@@ -41,3 +39,5 @@ Steps
 1. Add corn starch to set aside chicken broth, mix well, and add to soup
 1. Add sesamie oil
 1. Scramble 2 eggs, add to soup
+
+based on https://youtube.com/watch?v=0hr_PlhClGg
