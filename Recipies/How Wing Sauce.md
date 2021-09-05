@@ -6,3 +6,5 @@
 * 1 Tablespoon Worcestershire Sauce
 * 1 teaspoon granulated garlic
 * 1 teaspoon black pepper
+
+from https://howtobbqright.com/2014/09/25/smoked-hot-wings/
