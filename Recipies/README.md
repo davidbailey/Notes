@@ -6,6 +6,8 @@
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
 * [Emeril's Lemon-Herb Grilled Shrimp](https://www.marthastewart.com/343762/emerils-lemon-herb-grilled-shrimp)
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
+* [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
+* [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
 * [Jerk Chicken](https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/)
 * [Mongolian Beef](https://carlsbadcravings.com/secret-ingredient-mongolian-beef/)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
