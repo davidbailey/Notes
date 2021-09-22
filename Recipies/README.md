@@ -8,6 +8,7 @@
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
 * [Grilled Shrimp Po’Boy](https://howtobbqright.com/2015/01/29/super-grilled-bbq-shrimp-poboy/)
 * [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
+* [Grilled Chicken Pita](https://howtobbqright.com/2019/08/22/grilled-chicken-pitas/)
 * [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
 * [Jerk Chicken](https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/)
 * [Mongolian Beef](https://carlsbadcravings.com/secret-ingredient-mongolian-beef/)
