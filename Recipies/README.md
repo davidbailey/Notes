@@ -10,6 +10,7 @@
 * [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
 * [Grilled Chicken Pita](https://howtobbqright.com/2019/08/22/grilled-chicken-pitas/)
 * [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
+* [Honey Lime Grilled Mahi Mahi](https://howtobbqright.com/2013/09/12/honey-lime-grilled-mahi-mahi/)
 * [Jerk Chicken](https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/)
 * [Mongolian Beef](https://carlsbadcravings.com/secret-ingredient-mongolian-beef/)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
