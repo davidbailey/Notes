@@ -25,3 +25,4 @@
 * [Emeril's Lemon-Herb Grilled Shrimp](https://www.marthastewart.com/343762/emerils-lemon-herb-grilled-shrimp)
 * [Grilled Shrimp Po’Boy](https://howtobbqright.com/2015/01/29/super-grilled-bbq-shrimp-poboy/)
 * [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
+* [Spicy Grilled Shrimp](https://howtobbqright.com/2013/06/13/spicy-grilled-shrimp-recipe/)
