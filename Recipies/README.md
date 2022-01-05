@@ -10,6 +10,7 @@
 ### 🥩
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
 * [Mongolian Beef](https://carlsbadcravings.com/secret-ingredient-mongolian-beef/)
+* [Tacos](https://www.marthastewart.com/335291/beef-tacos)
 
 ### 🍗
 
