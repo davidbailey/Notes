@@ -4,6 +4,7 @@
 
 * [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
+* [Glühwein](https://www.austria.info/en/things-to-do/food-and-drink/recipes/gluehwein)
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
