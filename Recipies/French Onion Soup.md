@@ -17,4 +17,5 @@
 4. Add the vegetable broth and the wine/sherry and cook for 15 minutes.
 
 *pairs well with http://cuisinebykristine.com/recipe/garlic-parmesan-cheese-toast/*
+
 *adapted from http://www.vegetariantimes.com/recipe/french-onion-soup*
