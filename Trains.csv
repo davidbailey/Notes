@@ -1,17 +1,17 @@
-Manufacturer,Model,Acceleration,Deceleration,Maximum speed,Power,Weight,Wheelbase,Wheel diameter,Car length,Capacity,Source
-Alstom,AGV,,,360 km/h,,,,,,,https://en.wikipedia.org/wiki/AGV_(train)
-Alstom,Avelia Euroduplex,,,320 km/h,,399 t,,,"18,700-22,150 mm",556 seats,https://en.wikipedia.org/wiki/Euroduplex
-Alstom,Coradia,,,,,,,,,,https://en.wikipedia.org/wiki/Alstom_Coradia
-Alstom,VR Class Sm6,,,220 km/h,,,,,,,"https://en.wikipedia.org/wiki/Allegro_(train), https://en.wikipedia.org/wiki/VR_Class_Sm3"
-British Rail,Class 373,,,300 km/h,,752 t,,,18.7-21.84 m,758 seats,https://en.wikipedia.org/wiki/British_Rail_Class_373
-EMD,F40PH,,,103–110 mph,,"260,000–282,000 lb",,,,,https://en.wikipedia.org/wiki/EMD_F40PH
-GE,Genesis P42DC,,,110 mph,,"268,240 lb",,40 in,,,https://en.wikipedia.org/wiki/GE_Genesis
-Kinkisharyo,P3010,1.3 m/s2,1.6 m/s2,105 km/h,,45000 kg,2.15 m,710 mm,27 m,68 seats,"https://en.wikipedia.org/wiki/Kinkisharyo_P3010, http://www.kinkisharyo.com/vehicles/"
-Nippon Sharyo,P865,,,89 km/h,,42710 kg,1.89 m,0.73 m,26.52 m,180 (76 seats),https://en.wikipedia.org/wiki/Nippon_Sharyo_P865
-Shinkansen,E4,1.65 km/h/s,2.69 km/h/s,240 km/h,,428 t,,,"25,000 mm - 25,700 mm",817,https://en.wikipedia.org/wiki/E4_Series_Shinkansen
-Shinkansen,N700,2.6 km/h/s,,300 km/h,,715 t,,,"25,000-27,350 mm",1323,https://en.wikipedia.org/wiki/N700_Series_Shinkansen
-Siemens,Charger,,,201 km/h,,,,,,,https://en.wikipedia.org/wiki/Siemens_Charger
-Stadler,FLIRT,0.8–1.2 m/s2,,120–200 km/h (75–124 mph) [usually 160 km/h (99 mph)],,,,,,,https://en.wikipedia.org/wiki/Stadler_FLIRT
-Stadler,KISS,1.1 m/s2,,160 km/h,,296 t,,,,,https://en.wikipedia.org/wiki/Stadler_KISS
-Siemens,RABe 514,1.1 m/s2,,140 km/h (87 mph),,225 tonnes (496000 lb),,,100 meters (330 ft),First class: 74 Second class: 304,https://en.wikipedia.org/wiki/SBB-CFF-FFS_RABe_514
-Siemens,S200 (SF),3.0 mph/s,3.5 mph/s,55 mph,,"76,000 lb",,,75 ft,193,https://en.wikipedia.org/wiki/Siemens_S200
+Manufacturer,Model,Type,Acceleration,Deceleration,Maximum speed,Power,Weight,Wheelbase,Wheel diameter,Car length,Capacity,Source
+Alstom,AGV,,,,360 km/h,,,,,,,https://en.wikipedia.org/wiki/AGV_(train)
+Alstom,Avelia Euroduplex,,,,320 km/h,,399 t,,,"18,700-22,150 mm",556 seats,https://en.wikipedia.org/wiki/Euroduplex
+Alstom,Coradia,,,,,,,,,,,https://en.wikipedia.org/wiki/Alstom_Coradia
+Alstom,VR Class Sm6,,,,220 km/h,,,,,,,"https://en.wikipedia.org/wiki/Allegro_(train), https://en.wikipedia.org/wiki/VR_Class_Sm3"
+British Rail,Class 373,,,,300 km/h,,752 t,,,18.7-21.84 m,758 seats,https://en.wikipedia.org/wiki/British_Rail_Class_373
+EMD,F40PH,,,,103–110 mph,,"260,000–282,000 lb",,,,,https://en.wikipedia.org/wiki/EMD_F40PH
+GE,Genesis P42DC,,,,110 mph,,"268,240 lb",,40 in,,,https://en.wikipedia.org/wiki/GE_Genesis
+Kinkisharyo,P3010,,1.3 m/s2,1.6 m/s2,105 km/h,,45000 kg,2.15 m,710 mm,27 m,68 seats,"https://en.wikipedia.org/wiki/Kinkisharyo_P3010, http://www.kinkisharyo.com/vehicles/"
+Nippon Sharyo,P865,,,,89 km/h,,42710 kg,1.89 m,0.73 m,26.52 m,180 (76 seats),https://en.wikipedia.org/wiki/Nippon_Sharyo_P865
+Shinkansen,E4,,1.65 km/h/s,2.69 km/h/s,240 km/h,,428 t,,,"25,000 mm - 25,700 mm",817,https://en.wikipedia.org/wiki/E4_Series_Shinkansen
+Shinkansen,N700,,2.6 km/h/s,,300 km/h,,715 t,,,"25,000-27,350 mm",1323,https://en.wikipedia.org/wiki/N700_Series_Shinkansen
+Siemens,Charger,,,,201 km/h,,,,,,,https://en.wikipedia.org/wiki/Siemens_Charger
+Stadler,FLIRT,,0.8–1.2 m/s2,,120–200 km/h (75–124 mph) [usually 160 km/h (99 mph)],,,,,,,https://en.wikipedia.org/wiki/Stadler_FLIRT
+Stadler,KISS,,1.1 m/s2,,160 km/h,,296 t,,,,,https://en.wikipedia.org/wiki/Stadler_KISS
+Siemens,RABe 514,,1.1 m/s2,,140 km/h (87 mph),,225 tonnes (496000 lb),,,100 meters (330 ft),First class: 74 Second class: 304,https://en.wikipedia.org/wiki/SBB-CFF-FFS_RABe_514
+Siemens,S200 (SF),,3.0 mph/s,3.5 mph/s,55 mph,,"76,000 lb",,,75 ft,193,https://en.wikipedia.org/wiki/Siemens_S200
