@@ -20,7 +20,9 @@
 * [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
 * [Grilled Chicken Pita](https://howtobbqright.com/2019/08/22/grilled-chicken-pitas/)
 * [Jerk Chicken](https://howtobbqright.com/2013/05/31/jerk-chicken-recipe-on-the-weber-kettle/)
+* [Chicken Tikka Masala](https://40aprons.com/restaurant-style-chicken-tikka-masala-paleo-whole30/)
 * [Butter Chicken](https://getpocket.com/explore/item/with-this-simple-recipe-you-ll-wonder-why-it-took-you-so-long-to-make-butter-chicken-from-scratch)
+
 ### 🐟
 * [Honey Lime Grilled Mahi Mahi](https://howtobbqright.com/2013/09/12/honey-lime-grilled-mahi-mahi/)
 
