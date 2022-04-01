@@ -8,6 +8,7 @@
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
+* [Saag Paneer](https://www.harighotra.co.uk/saag-paneer-recipe)
 
 ### 🥩
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
