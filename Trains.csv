@@ -1,4 +1,4 @@
-Manufacturer,Model,Type,Acceleration,Deceleration,Maximum speed,Power,Weight,Wheelbase,Wheel diameter,Car length,Capacity,Source
+Manufacturer,Model,Type,Acceleration,Deceleration,Maximum speed,Power,Mass,Wheelbase,Wheel diameter,Car length,Capacity,Source
 Alstom,AGV,EMU,,,360 km/h,,,,,,,https://en.wikipedia.org/wiki/AGV_(train)
 Alstom,Avelia Euroduplex,Electric Trainset,,,320 km/h,,399 t,,,"18,700-22,150 mm",556 seats,https://en.wikipedia.org/wiki/Euroduplex
 Alstom,Coradia,DMU/EMU,,,,,,,,,,https://en.wikipedia.org/wiki/Alstom_Coradia
