@@ -1,16 +1,16 @@
-clothing (1 per day):
+## clothing (1 per day)
 white t-shirt
 underwear
 socks
 dress shirt
 dress paint
 
-clothing (1 per trip):
+## clothing (1 per trip)
 dress shoes
 belt
 rain coat/umbrella
 
-bathroom:
+## bathroom
 razor with charger
 q-tips
 toothbrush
@@ -19,16 +19,16 @@ floss
 deodorant
 nail clippers
 
-running:
+## running
 shorts
 shoes 
 socks
 
-swimming:
+## swimming
 shorts
 goggles
 
-other:
+## other
 book
 dvd
 macbook w/ power chord
@@ -38,7 +38,7 @@ water bottle
 cool backpack
 headphones
 
-office:
+## office
 docs
 laptop w/ power cable and video adapter
 notepad w/ paper and pen
