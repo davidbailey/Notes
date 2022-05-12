@@ -1,49 +1,49 @@
 ## clothing (1 per day)
-white t-shirt
-underwear
-socks
-dress shirt
-dress paint
+* white t-shirt
+* underwear
+* socks
+* dress shirt
+* dress paint
 
 ## clothing (1 per trip)
-dress shoes
-belt
-rain coat/umbrella
+* dress shoes
+* belt
+* rain coat/umbrella
 
 ## bathroom
-razor with charger
-q-tips
-toothbrush
-toothpaste
-floss
-deodorant
-nail clippers
+* razor with charger
+* q-tips
+* toothbrush
+* toothpaste
+* floss
+* deodorant
+* nail clippers
 
 ## running
-shorts
-shoes 
-socks
+* shorts
+* shoes 
+* socks
 
 ## swimming
-shorts
-goggles
+* shorts
+* goggles
 
 ## other
-book
-dvd
-macbook w/ power chord
-camera w/ charger
-cell phone charger
-water bottle
-cool backpack
-headphones
+* book
+* dvd
+* macbook w/ power chord
+* camera w/ charger
+* cell phone charger
+* water bottle
+* cool backpack
+* headphones
 
 ## office
-docs
-laptop w/ power cable and video adapter
-notepad w/ paper and pen
-white board markers w/ eraser
-usb drive
-business cards
-ethernet cable
-credit card
+* docs
+* laptop w/ power cable and video adapter
+* notepad w/ paper and pen
+* white board markers w/ eraser
+* usb drive
+* business cards
+* ethernet cable
+* credit card
