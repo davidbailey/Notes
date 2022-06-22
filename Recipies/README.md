@@ -10,6 +10,7 @@
 
 ### 🍹
 * [Glühwein](https://www.austria.info/en/things-to-do/food-and-drink/recipes/gluehwein)
+* [Mojito](https://www.tasteofhome.com/recipes/mojito/)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
 ### 🥗
