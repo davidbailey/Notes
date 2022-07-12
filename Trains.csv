@@ -1,7 +1,7 @@
 Manufacturer,Model,Type,Acceleration,Deceleration,Maximum speed,Power,Mass,Wheelbase,Wheel diameter,Car length,Capacity,Source
 Alstom,AGV,EMU,,,360 km/h,,,,,,,https://en.wikipedia.org/wiki/AGV_(train)
 Alstom,Avelia Euroduplex,Electric Trainset,,,320 km/h,,399 t,,,"18,700-22,150 mm",556 seats,https://en.wikipedia.org/wiki/Euroduplex
-Alstom,Coradia,DMU/EMU,,,,,,,,,,https://en.wikipedia.org/wiki/Alstom_Coradia
+Alstom,Coradia,DMU/EMU,,,160 km/h,,,,,,,https://en.wikipedia.org/wiki/Alstom_Coradia
 Alstom,VR Class Sm6,EMU,,,220 km/h,,,,,,,"https://en.wikipedia.org/wiki/Allegro_(train), https://en.wikipedia.org/wiki/VR_Class_Sm3"
 British Rail,Class 373,EMU,,,300 km/h,,752 t,,,18.7-21.84 m,758 seats,https://en.wikipedia.org/wiki/British_Rail_Class_373
 Brookville,Liberty Modern Streetcar,Streetcar,3 mph/s,3 mph/s,44 mph,396 kW,,,,66.5 ft,150 (32 seated),https://en.wikipedia.org/wiki/Brookville_Liberty_Modern_Streetcar
