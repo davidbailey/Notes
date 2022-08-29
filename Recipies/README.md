@@ -30,6 +30,7 @@
 * [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
 * [Grilled Chicken Pita](https://howtobbqright.com/2019/08/22/grilled-chicken-pitas/)
 * [Jerk Chicken](https://howtobbqright.com/2014/05/23/caribbean-style-hot-wings/)
+* [Teriyaki Chicken](https://wew.youtube.com/watch?v=kLvzBP2jk9k)
 
 ### 🐟
 * [Honey Lime Grilled Mahi Mahi](https://howtobbqright.com/2013/09/12/honey-lime-grilled-mahi-mahi/)
