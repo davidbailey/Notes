@@ -4,6 +4,7 @@
 
 ### 🌶
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
+* [Al Pastor](https://www.youtube.com/watch?v=bmtPra098J8)
 
 ### 🍩
 * [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
