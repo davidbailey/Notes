@@ -1,10 +1,8 @@
 # Recipies
 
-## Other Recipies
-
 ### 🌶
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
-* [Al Pastor](https://www.youtube.com/watch?v=bmtPra098J8)
+* Hot Wing Sauce
 
 ### 🍩
 * [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
@@ -12,12 +10,16 @@
 ### 🍹
 * [Glühwein](https://www.austria.info/en/things-to-do/food-and-drink/recipes/gluehwein)
 * [Mojito](https://www.tasteofhome.com/recipes/mojito/)
+* Scott’s Margarita
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
 ### 🥗
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
+* Mexican Salad
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
 * [Saag Paneer](https://www.harighotra.co.uk/saag-paneer-recipe)
+* Scalloped Potatoes
+* [Stir Fry](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Stir%20Fry.md)
 
 ### 🥩
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
@@ -34,6 +36,9 @@
 * [Jerk Chicken](https://howtobbqright.com/2014/05/23/caribbean-style-hot-wings/)
 * [Teriyaki Chicken](https://wew.youtube.com/watch?v=kLvzBP2jk9k)
 
+### 🐷 
+* [Al Pastor](https://www.youtube.com/watch?v=bmtPra098J8)
+
 ### 🐟
 * [Honey Lime Grilled Mahi Mahi](https://howtobbqright.com/2013/09/12/honey-lime-grilled-mahi-mahi/)
 
@@ -43,3 +48,11 @@
 * [Grilled Shrimp Po’Boy](https://howtobbqright.com/2015/01/29/super-grilled-bbq-shrimp-poboy/)
 * [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
 * [Spicy Grilled Shrimp](https://howtobbqright.com/2013/06/13/spicy-grilled-shrimp-recipe/)
+
+### 🍲
+* Butternut Squash Soup
+* Chicken Curry Soup
+* French Onion Soup
+* Hot and Sour Soup
+* Kale Soup
+* Leek and Potato Soup
