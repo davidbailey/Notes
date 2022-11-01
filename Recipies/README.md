@@ -2,7 +2,7 @@
 
 ### 🌶
 * [BBQ Rub Recipe](https://www.youtube.com/watch?v=ivBXO4CShn8)
-* Hot Wing Sauce
+* [Hot Wing Sauce](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Hot%20Wing%20Sauce.md)
 
 ### 🍩
 * [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
@@ -10,15 +10,15 @@
 ### 🍹
 * [Glühwein](https://www.austria.info/en/things-to-do/food-and-drink/recipes/gluehwein)
 * [Mojito](https://www.tasteofhome.com/recipes/mojito/)
-* Scott’s Margarita
+* [Scott’s Margarita](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Scott’s%20Margarita.md)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
 ### 🥗
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
-* Mexican Salad
+* [Mexican Salad](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Mexican%20Salad.md)
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
 * [Saag Paneer](https://www.harighotra.co.uk/saag-paneer-recipe)
-* Scalloped Potatoes
+* [Scalloped Potatoes](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Scalloped%20Potatoes.md)
 * [Stir Fry](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Stir%20Fry.md)
 
 ### 🥩
@@ -51,9 +51,9 @@
 * [Spicy Grilled Shrimp](https://howtobbqright.com/2013/06/13/spicy-grilled-shrimp-recipe/)
 
 ### 🍲
-* Butternut Squash Soup
-* Chicken Curry Soup
-* French Onion Soup
-* Hot and Sour Soup
-* Kale Soup
-* Leek and Potato Soup
+* [Butternut Squash Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Butternut%20Squash%20Soup.md)
+* [Chicken Curry Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Chicken%20Curry%20Soup.md)
+* [French Onion Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/French%20Onion%20Soup.md)
+* [Hot and Sour Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Hot%20and%20Sour%20Soup.md)
+* [Kale Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Kale%20Soup.md)
+* [Leek and Potato Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Leek%20and%20Potato%20Soup.md)
