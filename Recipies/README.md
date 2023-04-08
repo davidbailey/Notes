@@ -19,6 +19,7 @@
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
 * [Saag Paneer](https://www.harighotra.co.uk/saag-paneer-recipe)
 * [Scalloped Potatoes](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Scalloped%20Potatoes.md)
+* [Soy Garlic Crispy Tofu Stir Fry](https://www.craftycookbook.com/soy-garlic-crispy-tofu-stir-fry/)
 * [Stir Fry](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Stir%20Fry.md)
 
 ### 🥩
