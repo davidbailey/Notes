@@ -27,6 +27,7 @@
 * [Japanese Curry](https://www.sbfoods-worldwide.com/recipes/010.html)
 * [Mongolian Beef](https://carlsbadcravings.com/secret-ingredient-mongolian-beef/)
 * [Tacos](https://www.marthastewart.com/335291/beef-tacos)
+* [Beef and Lamb Gyro](https://www.reddit.com/r/food/comments/10jtmzq/beef_and_lamb_gyro_with_tzatziki_sauce_and_fries/)
 
 ### 🍗
 * [Butter Chicken](https://getpocket.com/explore/item/with-this-simple-recipe-you-ll-wonder-why-it-took-you-so-long-to-make-butter-chicken-from-scratch)
