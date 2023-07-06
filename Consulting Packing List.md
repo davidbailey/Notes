@@ -30,7 +30,6 @@
 
 ## other
 * book
-* dvd
 * macbook w/ power chord
 * camera w/ charger
 * cell phone charger
