@@ -5,7 +5,7 @@
 * [Hot Wing Sauce](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Hot%20Wing%20Sauce.md)
 
 ### 🍩
-* [Banana Bread](http://www.bbc.co.uk/food/recipes/bananabread_85720)
+* [Banana Bread](https://iamafoodblog.com/flour-bakerys-banana-bread/)
 
 ### 🍹
 * [Glühwein](https://www.austria.info/en/things-to-do/food-and-drink/recipes/gluehwein)
