@@ -31,6 +31,7 @@
 * [Spicy Thai Steak Sticks](https://h2qshop.com/blogs/malcoms-recipes/spicy-thai-steak-sticks)
 
 ### 🍗
+* [Barbecue Chicken](https://howtobbqright.com/2019/06/28/barbecue-chicken/)
 * [Butter Chicken](https://getpocket.com/explore/item/with-this-simple-recipe-you-ll-wonder-why-it-took-you-so-long-to-make-butter-chicken-from-scratch)
 * [Caribbean Style Grilled Hot Wings](https://howtobbqright.com/2014/05/23/caribbean-style-hot-wings/)
 * [Chicken Tikka Masala](https://40aprons.com/restaurant-style-chicken-tikka-masala-paleo-whole30/)
