@@ -14,6 +14,7 @@
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
 ### 🥗
+* [Garlic Bread](https://cuisinebykristine.com/recipe/garlic-parmesan-cheese-toast/)
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
 * [Mexican Salad](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Mexican%20Salad.md)
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
