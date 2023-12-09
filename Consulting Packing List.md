@@ -36,6 +36,7 @@
 * water bottle
 * cool backpack
 * headphones
+* first aid kit
 
 ## office
 * docs
