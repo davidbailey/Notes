@@ -5,7 +5,7 @@ Alstom,Coradia,DMU/EMU,,,160 km/h,,,,,,,https://en.wikipedia.org/wiki/Alstom_Cor
 Alstom,VR Class Sm6,EMU,,,220 km/h,,,,,,,"https://en.wikipedia.org/wiki/Allegro_(train), https://en.wikipedia.org/wiki/VR_Class_Sm3"
 British Rail,Class 373,EMU,,,300 km/h,,752 t,,,18.7-21.84 m,758 seats,https://en.wikipedia.org/wiki/British_Rail_Class_373
 Brookville,Liberty Modern Streetcar,Streetcar,3 mph/s,3 mph/s,44 mph,396 kW,79000 lb,,,66.5 ft,150 (32 seated),https://en.wikipedia.org/wiki/Brookville_Liberty_Modern_Streetcar
-EMD,F40PH,Diesel Locomotive,,,103 mph - 110 mph,,"260000 lb – 282000 lb",,,,,https://en.wikipedia.org/wiki/EMD_F40PH
+EMD,F40PH,Diesel Locomotive,,,110 mph,,"260000 lb – 282000 lb",,,,,https://en.wikipedia.org/wiki/EMD_F40PH
 GE,Genesis P42DC,Diesel Locomotive,,,110 mph,,"268240 lb",,40 in,,,https://en.wikipedia.org/wiki/GE_Genesis
 Kinkisharyo,P3010,EMU,1.3 m/s2,1.6 m/s2,105 km/h,540 kW,45000 kg,2.15 m,710 mm,27 m,68 seats,"https://en.wikipedia.org/wiki/Kinkisharyo_P3010, http://www.kinkisharyo.com/vehicles/"
 Nippon Sharyo,P865,EMU,,,89 km/h,,42710 kg,1.89 m,0.73 m,26.52 m,180 (76 seats),https://en.wikipedia.org/wiki/Nippon_Sharyo_P865
@@ -17,6 +17,6 @@ Siemens,RABe 514,EMU,1.1 m/s2,,140 km/h (87 mph),,225 tonne (496000 lb),,,100 me
 Siemens,S200 (SF),EMU,3.0 mph/s,3.5 mph/s,55 mph,,"76000 lb",,,75 ft,193,https://en.wikipedia.org/wiki/Siemens_S200
 Siemens,Velaro D (DB Class 407),EMU,,,380 km/h,8000 kW,454000 kg,,,,460 seats,https://en.wikipedia.org/wiki/Siemens_Velaro
 Siemens,Venture,Passenger Car,,,201 km/h,,50802 kg,,,25908 mm,74 Economy,https://en.wikipedia.org/wiki/Siemens_Venture
-Stadler,FLIRT,DMU/EMU,0.8 m/s2 – 1.2 m/s2,,120 km/h - 200 km/h (75–124 mph) [usually 160 km/h (99 mph)],1300 kW – 4500 kW,76 t - 206 t,,,,,https://en.wikipedia.org/wiki/Stadler_FLIRT
+Stadler,FLIRT,DMU/EMU,0.8 m/s2 – 1.2 m/s2,,160 km/h,1300 kW – 4500 kW,76 t - 206 t,,,,,https://en.wikipedia.org/wiki/Stadler_FLIRT
 Stadler,KISS,EMU,1.1 m/s2,,160 km/h,6000 kW,296 t,,,,,https://en.wikipedia.org/wiki/Stadler_KISS
 TRTrans,EP20,Electric Locomotive,,,200 km/h,7200 kW,135 t,,1280 mm,22.532 m,,https://en.wikipedia.org/wiki/EP20
