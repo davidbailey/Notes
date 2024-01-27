@@ -50,7 +50,7 @@
 
 ### 🍤
 * [Coctel de Mariscos](https://blisgourmet.com/blogs/recipes/mexican-seafood-cocktail-coctel-de-mariscos)
-* [Emeril's Lemon-Herb Grilled Shrimp](https://www.marthastewart.com/343762/emerils-lemon-herb-grilled-shrimp)
+* [Emeril's Lemon-Herb Grilled Shrimp](https://web.archive.org/web/20220928171517/https://www.marthastewart.com/343762/emerils-lemon-herb-grilled-shrimp)
 * [Grilled Shrimp Po’Boy](https://howtobbqright.com/2015/01/29/super-grilled-bbq-shrimp-poboy/)
 * [Honey Garlic Shrimp](https://tiphero.com/10-minute-honey-garlic-shrimp)
 * [Spicy Grilled Shrimp](https://howtobbqright.com/2013/06/13/spicy-grilled-shrimp-recipe/)
