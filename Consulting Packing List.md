@@ -12,7 +12,6 @@
 
 ## bathroom
 * razor with charger
-* q-tips
 * toothbrush
 * toothpaste
 * floss
