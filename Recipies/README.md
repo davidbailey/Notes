@@ -13,8 +13,11 @@
 * [Scott’s Margarita](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Scott’s%20Margarita.md)
 * [Thai Iced Tea](https://www.thespruceeats.com/real-thai-iced-tea-recipe-765458)
 
-### 🥗
+### 🍝
+* [Baked Ziti](https://smittenkitchen.com/2015/10/my-old-school-baked-ziti/)
 * [Garlic Bread](https://cuisinebykristine.com/recipe/garlic-parmesan-cheese-toast/)
+
+### 🥗
 * [Greek Salad](https://en.wikipedia.org/wiki/Greek_salad)
 * [Mexican Salad](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Mexican%20Salad.md)
 * [Moo Shu Vegetable](https://thewoksoflife.com/vegetable-moo-shu/)
