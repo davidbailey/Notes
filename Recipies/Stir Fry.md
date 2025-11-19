@@ -5,7 +5,7 @@
 * 3 Tablespoons Soy Sauce
 * 1 Tablespoon Rice Vinegar 
 * 1 Tablespoon Brown Sugar
-3 Cloves Garlic, minced 
+* 3 Cloves Garlic, minced 
 
 ### Vegetables 
 * 1 Cup Carrots, shredded 
