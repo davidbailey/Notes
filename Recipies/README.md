@@ -43,7 +43,7 @@
 * [Grilled Chicken Fajitas](https://howtobbqright.com/2017/07/27/grilled-chicken-fajitas/)
 * [Grilled Chicken Pita](https://howtobbqright.com/2019/08/22/grilled-chicken-pitas/)
 * [Jerk Chicken](https://howtobbqright.com/2014/05/23/caribbean-style-hot-wings/)
-* [Teriyaki Chicken](https://wew.youtube.com/watch?v=kLvzBP2jk9k)
+* [Teriyaki Chicken](https://www.youtube.com/watch?v=kLvzBP2jk9k)
 * [Bok Choy and Chicken Stir-Fry](https://www.youtube.com/shorts/xtkYa-AUjUo)
 * [Teriyaki Chicken](https://www.instagram.com/reel/DWhlIQ2ACaG/)
 
