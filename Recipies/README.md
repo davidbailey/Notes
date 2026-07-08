@@ -67,3 +67,4 @@
 * [Hot and Sour Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Hot%20and%20Sour%20Soup.md)
 * [Kale Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Kale%20Soup.md)
 * [Leek and Potato Soup](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Leek%20and%20Potato%20Soup.md)
+* [Hot and Sour Soup](https://www.youtube.com/shorts/ayzzfcQzePA)
