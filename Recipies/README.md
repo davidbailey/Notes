@@ -46,6 +46,7 @@
 * [Teriyaki Chicken](https://www.youtube.com/watch?v=kLvzBP2jk9k)
 * [Bok Choy and Chicken Stir-Fry](https://www.youtube.com/shorts/xtkYa-AUjUo)
 * [Teriyaki Chicken](https://www.instagram.com/reel/DWhlIQ2ACaG/)
+* [Chicken Tenders](https://simplehomeedit.com/recipe/baked-garlic-parmesan-chicken-tenders/)
 
 ### 🐷 
 * [Al Pastor](https://www.youtube.com/watch?v=bmtPra098J8)
