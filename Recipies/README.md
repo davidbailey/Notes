@@ -26,6 +26,7 @@
 * [Soy Garlic Crispy Tofu Stir Fry](https://www.craftycookbook.com/soy-garlic-crispy-tofu-stir-fry/)
 * [Stir Fry](https://github.com/davidbailey/Notes/blob/trunk/Recipies/Stir%20Fry.md)
 * [Fried Rice](https://ichisushi.com/chinese-fried-rice-recipe/)
+* [Pasta Primavera](https://m.youtube.com/shorts/NsbihwPzRVc)
 
 ### 🥩
 * [Chimichurri Skirt Steak Skewers](https://howtobbqright.com/2014/11/04/chimichurri-skirt-steak-skewers/)
