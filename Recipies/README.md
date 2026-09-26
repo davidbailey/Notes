@@ -35,6 +35,8 @@
 * [Tacos](https://www.marthastewart.com/335291/beef-tacos)
 * [Beef and Lamb Gyro](https://www.reddit.com/r/food/comments/10jtmzq/beef_and_lamb_gyro_with_tzatziki_sauce_and_fries/)
 * [Spicy Thai Steak Sticks](https://h2qshop.com/blogs/malcoms-recipes/spicy-thai-steak-sticks)
+* [Bibimbap](https://en.wikibooks.org/wiki/Cookbook:Bibimbap)
+* [Beef and Broccoli](https://m.youtube.com/shorts/YAYkwv8db3w?ra=m)
 
 ### 🍗
 * [Barbecue Chicken](https://howtobbqright.com/2019/06/28/barbecue-chicken/)
